@@ -1,4 +1,3 @@
-# Cleveland Clinic heart disease data science:
 Used 70% of the data as a training set, 15% as a test set, and 15% as a validation set. Keras is used which is an API to build and train deep learning models. 
 
 # Useful Sources:
